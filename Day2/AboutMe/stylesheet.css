@@ -1,0 +1,23 @@
+body {
+  background-color: #cccccc;
+  font-family: cursive;
+}
+h1 {
+  color: #2A1959;
+  border-bottom: 2px solid #2A1959;
+  text-align: right;
+
+}
+h2 {
+  color: #474B94;
+  font-size: 1.2em;
+  margin-left: 100px;
+}
+p {
+  color: #0000ff;
+  margin-left: 100px;
+}
+li {
+    color: #0000ff;
+    margin-left: 200px;
+}
