@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc1a65c4-2fce-481f-bd2d-0367d9e8b5ba" name="Default" comment="" />
-    <ignored path="Day2.iws" />
+    <list default="true" id="f97cfc6c-4c1b-4624-b8ba-e8aef02fecf3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/WebProgammingWithRuby.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day2/AboutMe/index.html" />
+    </list>
+    <ignored path="WebProgammingWithRuby.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,23 +26,23 @@
     <disable_hints />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Day2" />
+    <favorites_list name="WebProgammingWithRuby" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AboutMe/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2/DosaSite/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="538" selection-end="538" vertical-scroll-proportion="0.39130434">
+            <state line="8" column="14" selection-start="153" selection-end="215" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AboutMe/stylesheet.css">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2/AboutMe/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="19" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+            <state line="11" column="21" selection-start="189" selection-end="189" vertical-scroll-proportion="0.28695652">
               <folding />
             </state>
           </provider>
@@ -43,12 +50,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AboutMe/index.html" />
-        <option value="$PROJECT_DIR$/AboutMe/stylesheet.css" />
-        <option value="$PROJECT_DIR$/DosaSite/public/index.html" />
+        <option value="$PROJECT_DIR$/Day2/AboutMe/index.html" />
       </list>
     </option>
   </component>
@@ -82,22 +96,22 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day2" />
+              <option name="myItemId" value="WebProgammingWithRuby" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Favorites" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -122,8 +136,8 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1330325378130</created>
-      <updated>1330325378130</updated>
+      <created>1329362147321</created>
+      <updated>1329362147321</updated>
     </task>
     <servers />
   </component>
@@ -191,30 +205,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AboutMe/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/Day2/DosaSite/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+        <state line="8" column="14" selection-start="153" selection-end="215" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DosaSite/public/stylesheets/dosasite.css">
+    <entry file="file://$PROJECT_DIR$/Day2/AboutMe/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DosaSite/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="153" selection-end="215" vertical-scroll-proportion="0.21352313">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AboutMe/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="538" selection-end="538" vertical-scroll-proportion="0.39130434">
+        <state line="11" column="21" selection-start="189" selection-end="189" vertical-scroll-proportion="0.28695652">
           <folding />
         </state>
       </provider>
